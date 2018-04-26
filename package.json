@@ -2,10 +2,11 @@
   "name": "gicreator",
   "version": "1.0.0",
   "description": "Create custom gitignore files from Github templates.",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "bin": {
-    "gicreator": "gicreator.js"
+    "gicreator": "./bin/gicreator.js"
   },
+  "preferGlobal": true,
   "directories": {
     "lib": "lib"
   },
