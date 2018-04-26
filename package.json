@@ -1,0 +1,25 @@
+{
+  "name": "gicreator",
+  "version": "1.0.0",
+  "description": "Create custom gitignore files from Github templates.",
+  "main": "index.js",
+  "bin": {
+    "gicreator": "gicreator.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Philosec/gicreator.git"
+  },
+  "author": "Shane Padgett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Philosec/gicreator/issues"
+  },
+  "homepage": "https://github.com/Philosec/gicreator#readme"
+}
