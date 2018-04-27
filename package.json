@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Philosec/gicreator/issues"
   },
-  "homepage": "https://github.com/Philosec/gicreator#readme"
+  "homepage": "https://github.com/Philosec/gicreator#readme",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
 }
