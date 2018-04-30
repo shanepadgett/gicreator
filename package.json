@@ -1,5 +1,6 @@
 {
   "name": "gicreator",
+  "author": "Shane Padgett",
   "version": "1.0.0",
   "description": "Create custom gitignore files from Github templates.",
   "main": "./lib/index.js",
@@ -17,7 +18,6 @@
     "type": "git",
     "url": "git+https://github.com/Philosec/gicreator.git"
   },
-  "author": "Shane Padgett",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Philosec/gicreator/issues"
