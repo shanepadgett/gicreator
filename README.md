@@ -15,5 +15,5 @@ gicreator list
 
 Create `.gitignore` for listed types
 ```javascript
-gicreator m node windows jetbrains
+gicreator make node windows jetbrains
 ```
