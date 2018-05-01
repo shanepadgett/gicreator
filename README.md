@@ -14,7 +14,7 @@ gicreator list
 ```
 
 ### Create `.gitignore` for listed types
-Navigate to the destination folder.
+CD into the destination folder.
 ```javascript
 gicreator make node windows jetbrains
 ```
