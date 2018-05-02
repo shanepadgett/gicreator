@@ -26,8 +26,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "extfs": "0.0.7",
-    "fs-extra": "^5.0.0",
-    "node-fetch": "^2.1.2",
     "yargs": "^11.0.0"
   },
   "devDependencies": {},
