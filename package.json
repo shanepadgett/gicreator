@@ -1,7 +1,7 @@
 {
   "name": "gicreator",
   "author": "Shane Padgett",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Create custom gitignore files from Github templates.",
   "main": "./lib/index.js",
   "bin": {
