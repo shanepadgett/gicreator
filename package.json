@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Philosec/gicreator#readme",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.0",
     "extfs": "0.0.7",
     "yargs": "^15.0.2"
   },
