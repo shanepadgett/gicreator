@@ -26,7 +26,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "extfs": "0.0.7",
-    "yargs": "^15.0.2"
+    "yargs": "^17.0.0"
   },
   "devDependencies": {},
   "engines": {
